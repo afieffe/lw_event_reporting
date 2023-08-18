@@ -1,2 +1,2 @@
-laceworksdk==1.6.1
-pandas==1.4.4
+laceworksdk==2.1.0
+pandas==1.3.5
