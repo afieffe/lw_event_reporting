@@ -204,7 +204,7 @@ if __name__ == '__main__':
     )
     parser.add_argument(
         '--max-threads',
-        action='store_true',
+        type=int,
         default=MAX_THREADS,
         help='Maximum number of threads to be used'
     )
